@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "pet_store.catalog.contracts/1.0.0": {
+        "runtime": {
+          "pet_store.catalog.contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pet_store.catalog.contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

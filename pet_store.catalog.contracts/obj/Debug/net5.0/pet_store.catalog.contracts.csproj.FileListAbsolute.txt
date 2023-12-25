@@ -1,0 +1,12 @@
+C:\Users\Seryozhka\Desktop\Curs\pet_store.catalog\src\pet_store.catalog.contracts\bin\Debug\net5.0\pet_store.catalog.contracts.deps.json
+C:\Users\Seryozhka\Desktop\Curs\pet_store.catalog\src\pet_store.catalog.contracts\bin\Debug\net5.0\pet_store.catalog.contracts.dll
+C:\Users\Seryozhka\Desktop\Curs\pet_store.catalog\src\pet_store.catalog.contracts\bin\Debug\net5.0\ref\pet_store.catalog.contracts.dll
+C:\Users\Seryozhka\Desktop\Curs\pet_store.catalog\src\pet_store.catalog.contracts\bin\Debug\net5.0\pet_store.catalog.contracts.pdb
+C:\Users\Seryozhka\Desktop\Curs\pet_store.catalog\src\pet_store.catalog.contracts\obj\Debug\net5.0\pet_store.catalog.contracts.csproj.AssemblyReference.cache
+C:\Users\Seryozhka\Desktop\Curs\pet_store.catalog\src\pet_store.catalog.contracts\obj\Debug\net5.0\pet_store.catalog.contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seryozhka\Desktop\Curs\pet_store.catalog\src\pet_store.catalog.contracts\obj\Debug\net5.0\pet_store.catalog.contracts.AssemblyInfoInputs.cache
+C:\Users\Seryozhka\Desktop\Curs\pet_store.catalog\src\pet_store.catalog.contracts\obj\Debug\net5.0\pet_store.catalog.contracts.AssemblyInfo.cs
+C:\Users\Seryozhka\Desktop\Curs\pet_store.catalog\src\pet_store.catalog.contracts\obj\Debug\net5.0\pet_store.catalog.contracts.csproj.CoreCompileInputs.cache
+C:\Users\Seryozhka\Desktop\Curs\pet_store.catalog\src\pet_store.catalog.contracts\obj\Debug\net5.0\pet_store.catalog.contracts.dll
+C:\Users\Seryozhka\Desktop\Curs\pet_store.catalog\src\pet_store.catalog.contracts\obj\Debug\net5.0\ref\pet_store.catalog.contracts.dll
+C:\Users\Seryozhka\Desktop\Curs\pet_store.catalog\src\pet_store.catalog.contracts\obj\Debug\net5.0\pet_store.catalog.contracts.pdb

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>pet_store.catalog.contracts</id>
+    <version>1.0.2</version>
+    <authors>pet_store.catalog.contracts</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Seryozhka\Desktop\Curs\pet_store.catalog\src\pet_store.catalog.contracts\bin\Debug\net5.0\pet_store.catalog.contracts.dll" target="lib\net5.0\pet_store.catalog.contracts.dll" />
+  </files>
+</package>

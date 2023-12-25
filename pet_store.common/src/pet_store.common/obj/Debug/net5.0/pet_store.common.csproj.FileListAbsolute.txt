@@ -1,0 +1,12 @@
+C:\Users\Seryozhka\Desktop\Curs\pet_store.common\src\pet_store.common\bin\Debug\net5.0\pet_store.common.deps.json
+C:\Users\Seryozhka\Desktop\Curs\pet_store.common\src\pet_store.common\bin\Debug\net5.0\pet_store.common.dll
+C:\Users\Seryozhka\Desktop\Curs\pet_store.common\src\pet_store.common\bin\Debug\net5.0\ref\pet_store.common.dll
+C:\Users\Seryozhka\Desktop\Curs\pet_store.common\src\pet_store.common\bin\Debug\net5.0\pet_store.common.pdb
+C:\Users\Seryozhka\Desktop\Curs\pet_store.common\src\pet_store.common\obj\Debug\net5.0\pet_store.common.csproj.AssemblyReference.cache
+C:\Users\Seryozhka\Desktop\Curs\pet_store.common\src\pet_store.common\obj\Debug\net5.0\pet_store.common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seryozhka\Desktop\Curs\pet_store.common\src\pet_store.common\obj\Debug\net5.0\pet_store.common.AssemblyInfoInputs.cache
+C:\Users\Seryozhka\Desktop\Curs\pet_store.common\src\pet_store.common\obj\Debug\net5.0\pet_store.common.AssemblyInfo.cs
+C:\Users\Seryozhka\Desktop\Curs\pet_store.common\src\pet_store.common\obj\Debug\net5.0\pet_store.common.csproj.CoreCompileInputs.cache
+C:\Users\Seryozhka\Desktop\Curs\pet_store.common\src\pet_store.common\obj\Debug\net5.0\pet_store.common.dll
+C:\Users\Seryozhka\Desktop\Curs\pet_store.common\src\pet_store.common\obj\Debug\net5.0\ref\pet_store.common.dll
+C:\Users\Seryozhka\Desktop\Curs\pet_store.common\src\pet_store.common\obj\Debug\net5.0\pet_store.common.pdb
