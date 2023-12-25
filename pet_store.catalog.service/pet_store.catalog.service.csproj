@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="pet_store.catalog.contracts" Version="1.0.2" />
+    <PackageReference Include="pet_store.common" Version="1.0.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+    <ProjectReference Include="..\pet_store.catalog.contracts\pet_store.catalog.contracts.csproj" />
+  </ItemGroup>
+
+</Project>
